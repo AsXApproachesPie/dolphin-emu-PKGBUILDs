@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Icon=dolphin-emu
-Exec=/opt/dolphin-emu-faster-melee/bin/dolphin-emu
+Exec=/opt/dolphin-emu-faster-melee/bin/dolphin-emu -u $HOME/.dolphin-emu-faster-melee
 Terminal=false
 Type=Application
 Categories=Game;Emulator;
