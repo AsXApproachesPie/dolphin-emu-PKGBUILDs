@@ -37,7 +37,7 @@ source=("${pkgname}::git+https://github.com/Tinob/Ishiiruka.git#commit=0b00f1f62
 # shellcheck disable=SC2034
 sha256sums=('SKIP'
             'eae12be9d008453d09bf1379315a2299eca9c76cc093727f8f41926193981c50'
-            '1ce9ed4423dd5d138387fe24133edcacdc64454564c9a74a034e1b0fe9ba4122'
+            'e452ec71aa0c8268a9ff0c2946575a62e55b8fff2fba0271044eb527e6ee644d'
             'a930e0490bfa95f66f96919d320e04f99d6988587209700a536bf7549d53466a'
             '4dd62a40be7a41c92079c9ee23f5fd458c85f275431881c707450f634fdcf24c'
             '4dd62a40be7a41c92079c9ee23f5fd458c85f275431881c707450f634fdcf24c'
